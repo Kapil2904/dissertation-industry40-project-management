@@ -103,14 +103,4 @@ MSc Engineering Management | University of Birmingham
 
 ---
 
-## 📌 Related Work & Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| Supply Chain Analytics – Power BI | Interactive dashboard tracking revenue, supplier KPIs, defect rates | [View](#) |
-| MIS Consulting Project | Manufacturing workflow optimisation using POTi framework | [View](#) |
-| Business Operations Strategy – Bewild | Market expansion strategy for a forest-friendly produce startup | [View](#) |
-
----
-
 > *"The future of project management lies not in choosing between traditional and agile — but in intelligently integrating both."*
